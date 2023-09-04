@@ -1,0 +1,214 @@
+rompvmrix@gmail.com
+Atirau111
+Atirau111./D
+MAX
+
+heroku.com
+
+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
+
+https://github.com/settings/tokens
+
+установит джав 18
+потом андроид студио 2021.2
+
+https://drive.google.com/file/d/1lM7tqI6_a-Aag-8Uo0YIQ7fiNS2SkzcY/view?usp=sharing
+https://drive.google.com/u/0/uc?id=1lM7tqI6_a-Aag-8Uo0YIQ7fiNS2SkzcY&export=download
+
+2045440
+2045184
+https://positivebet.com/ru/bets/indexhttps://positivebet.com/ru/bets/index
+atirau11
+
+Student_05
+
+ssikjhgdf
+
+Afb24431c-@@
+
+lla myLla = new lla();
+        myLla.executeHttpRequest();
+Aolozsbk54
+deloyo1272@a
+Adeloyo1272@a
+
+
+
+nofesir769@dekaps.com
+
+
+
+Информация аккаунта:
+Имя пользователя: Nxofesir769
+Новый пароль: 10dfe645db25#
+
+
+Button bootons = findViewById(R.id.vpnBtn);
+        bootons.setOnClickListener(view -> {
+            TextView textView = findViewById(R.id.byteOutTv);
+            textView.setText("jfkjfhdkfjh");
+        });
+
+ protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+
+        Button bootons = findViewById(R.id.vpnBtn);
+        bootons.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Toast.makeText(MainActivity.this, "knopka",Toast.LENGTH_LONG).show();
+            }
+        });
+    }
+
+
+
+
+    public static void main(String[] args) {
+        OkHttpClient client = new OkHttpClient();
+
+        Request request = new Request.Builder()
+                .url("https://www.example.com/myfile.txt") // URL файла для загрузки
+                .build();
+
+        try {
+            Response response = client.newCall(request).execute();
+            if (response.isSuccessful()) {
+                ResponseBody responseBody = response.body();
+                if (responseBody != null) {
+                    try {
+                        String responseData = responseBody.string();
+                        System.out.println(responseData);
+                    } catch (IOException e) {
+                        e.printStackTrace();
+                    } finally {
+                        responseBody.close();
+                    }
+                } else {
+                    System.err.println("Response body is null");
+                }
+            } else {
+                System.err.println("Request was not successful");
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+
+
+
+///movement variables
+m_speed = 10;
+m_step = 5;
+
+vspeed = 0;
+m_gravity = 1;
+m_jump = -15;
+
+
+
+////movements
+vspeed += m_gravity;
+
+
+if keyboard_check(vk_left)
+{
+move_contact_solid(90, m_step);
+move_contact_solid(180, m_step);
+move_contact_solid(270, m_step);
+
+}
+
+
+if keyboard_check(vk_right)
+{
+move_contact_solid(90, m_step);
+move_contact_solid(0, m_step);
+move_contact_solid(270, m_step);
+}
+if keyboard_check_pressed(vk_up)
+if !place_free(x,y+1)
+{
+vspeed = m_jump;
+}
+
+
+vspeed = 0;
+move_contact_solid(270,20);
+
+
+vspeed = 0;
+move_contact_solid(270,20);
+
+
+
+
+
+if place_meeting(x , y,vrag)
+{
+  if (y < vrag.y-8){
+  
+vsp = -jumpSpeed/2
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+curl "https://best-proxies.ru/proxylist/free/" ^
+  -H "Connection: keep-alive" ^
+  -H "Pragma: no-cache" ^
+  -H "Cache-Control: no-cache" ^
+  -H "Upgrade-Insecure-Requests: 1" ^
+  -H "User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Mobile Safari/537.36" ^
+  -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9" ^
+  -H "Sec-Fetch-Site: none" ^
+  -H "Sec-Fetch-Mode: navigate" ^
+  -H "Sec-Fetch-User: ?1" ^
+  -H "Sec-Fetch-Dest: document" ^
+  -H "Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: lang=ru; sid=utAqwihyJky4LF1nHNQsXljduenGHc-k; secure=1676799036-8d1a82379f76534d853e078f1b2f2cb1" ^
+  --compressed
+
+
+
+curl 'https://best-proxies.ru/proxylist/free/' \
+  -H 'Connection: keep-alive' \
+  -H 'Pragma: no-cache' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Mobile Safari/537.36' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'Sec-Fetch-Site: none' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7' \
+  -H 'Cookie: lang=ru; sid=utAqwihyJky4LF1nHNQsXljduenGHc-k; secure=1676799036-8d1a82379f76534d853e078f1b2f2cb1' \
+  --compressed
+
+
+curl "https://best-proxies.ru/proxylist/free/" ^
+  -H "Connection: keep-alive" ^
+  -H "Pragma: no-cache" ^
+  -H "Cache-Control: no-cache" ^
+  -H "Upgrade-Insecure-Requests: 1" ^
+  -H "User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Mobile Safari/537.36" ^
+  -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9" ^
+  -H "Sec-Fetch-Site: same-origin" ^
+  -H "Sec-Fetch-Mode: navigate" ^
+  -H "Sec-Fetch-Dest: document" ^
+  -H "Referer: https://best-proxies.ru/proxylist/free/" ^
+  -H "Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7" ^
+  -H "Cookie: lang=ru; sid=utAqwihyJky4LF1nHNQsXljduenGHc-k; secure=1676799080-fa2688685b0339a6a357e1a27da72bf6" ^
+  --compressed
