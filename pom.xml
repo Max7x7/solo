@@ -1,0 +1,18 @@
+<project xmlns="http://ma>
+  xsi:schemaLocation="htt>
+  <modelVersion>4.0.0</mo>
+  <groupId>com.example</g>
+  <artifactId>mydownloada>
+  <packaging>jar</packagi>
+  <version>1.0-SNAPSHOT</>
+  <name>mydownloadapp</na>
+  <url>http://maven.apach>
+  <dependencies>
+    <dependency>
+      <groupId>junit</gro>
+      <artifactId>junit</>
+      <version>3.8.1</ver>
+      <scope>test</scope>
+    </dependency>
+  </dependencies>
+</project>
