@@ -23,8 +23,8 @@ import java.util.List;
 public class GoogleDriveDownload {
     private static final String APPLICATION_NAME = "Your Application Name";
     private static final JsonFactory JSON_FACTORY = com.google.api.client.json.JsonFactory.getDefaultInstance();
-    private static final String SERVICE_ACCOUNT_JSON_FILE = "/home/rompvmrix/cedar-gift-398323-f00c59996387.json"; // Укажите путь к вашему файлу ключа аутентификации
-    private static final String DOWNLOAD_DIRECTORY = "/home/rompvmrix/; // Укажите путь к папке, в которую вы хотите скачивать файлы
+    private static final String SERVICE_ACCOUNT_JSON_FILE = "/home/rompvmrix/cedar-gift-398323-f00c59996387.json"; 
+    private static final String DOWNLOAD_DIRECTORY = "/home/rompvmrix/; 
 
     public static void main(String[] args) throws Exception {
         HttpTransport httpTransport = GoogleNetHttpTransport.newTrustedTransport();
